@@ -3,7 +3,7 @@ import random as rm
 import datetime as dt
 
 MY_EMAIL = "jashananeja777@gmail.com"
-PASSWORD = "nvjkitfmqrvgafkw"
+PASSWORD = "nvjkitfmqrvgaf"
 
 
 from datetime import datetime as dt
